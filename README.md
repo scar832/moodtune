@@ -1,6 +1,7 @@
 # MoodTune - Music Mood Analyzer 🎵
 
 ![MoodTune Logo](/frontend/public/logo.png)
+
 MoodTune is a modern web application that analyzes your music preferences and mood to create personalized playlists. Built with React, Vite, and a suite of modern web technologies, MoodTune provides an intuitive and engaging user experience for music lovers.
 
 ## ✨ Features
